@@ -9,7 +9,6 @@ import pygame
 import io
 import urllib.request
 from gtts import gTTS
-import pygame
 
 language = "ne"
 gender = "female"
