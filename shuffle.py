@@ -3,7 +3,7 @@ import random
 
 base_folder = "data"
 
-# Names of the train and test folders
+# Names assigend to the train and test folders
 train_folder = "train"
 test_folder = "test"
 
