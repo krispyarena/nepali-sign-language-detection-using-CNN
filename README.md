@@ -54,6 +54,10 @@ This repository contains a project for detecting Nepali Sign Language using Conv
 - **Keras**
 - **OpenCV**
 
+## Extra Resources
+
+- **Link to Presentation** : [Project Presentation](https://docs.google.com/presentation/d/1SdRnR4mG1nWYIAjh4b76P1ztI_z6kpSQ/edit?usp=drive_link&ouid=112179910766979724441&rtpof=true&sd=true)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes.
