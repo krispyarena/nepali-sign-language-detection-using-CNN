@@ -63,6 +63,7 @@ This repository contains a project for detecting Nepali Sign Language using Conv
 ## Extra Resources
 
 - **Link to Presentation** : [Project Presentation](https://docs.google.com/presentation/d/1SdRnR4mG1nWYIAjh4b76P1ztI_z6kpSQ/edit?usp=drive_link&ouid=112179910766979724441&rtpof=true&sd=true)
+- **Link to Report** : [Project Report](https://drive.google.com/file/d/1GVLaBn8pk4IxoI7EX325goEOsANHDjQI/view?usp=sharing)
 
 ## Contributing
 
