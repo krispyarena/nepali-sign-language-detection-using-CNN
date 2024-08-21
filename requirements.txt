@@ -1,0 +1,3 @@
+tensorflow
+keras
+opencv-contrib-python
